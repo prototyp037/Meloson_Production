@@ -1,0 +1,8 @@
+{
+  "name": "Yamaha_YPT_220_SoundFont",
+  "version": "1.0",
+  "sounds": {
+    "acoustic_grand_piano": "Yamaha_YPT_220_soundfont_studio_version.sf2"
+    // Add more instruments if needed
+  }
+}
